@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "demo",
   "keywords": ["react", "search results", "searchbox", "tachyons"],
-  "homepage": "https://codesandbox.io/s/jvvmpn25x5",
+  "homepage": "https://codesandbox.io/s/qvqxyq8m7w",
   "main": "src/index.js",
   "dependencies": {
     "react": "16.2.0",
