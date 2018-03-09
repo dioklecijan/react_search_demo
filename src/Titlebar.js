@@ -20,7 +20,7 @@ export default class extends React.Component {
     const { id, name, title, value, placeholder, onChange } = this.props;
     const inputStateCls = this.state.expanded ? "expanded" : "collapsed";
     return (
-      <div className="flex flex-column flex-row-reverse-m items-stretch  pa4-ns pa2 w-100 black-70">
+      <div className="flex flex-column flex-row-reverse-ns items-stretch  pa4-ns pa2 w-100 black-70">
         <div className="pa2 flex flex-end">
           <div style={{ flex: "1 1 auto" }}>
             <input

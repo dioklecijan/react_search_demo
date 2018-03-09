@@ -39,7 +39,7 @@ const ListItem = ({ item }) => {
 
 const SearchResults = ({ data }) => (
   <div className="pa4">
-    <h2 className="f2">Results</h2>
+    <h2 className="f2 black-70">Results</h2>
     <p className="i">
       {data.length} document{data.length !== 1 ? "s" : ""} found.
     </p>
