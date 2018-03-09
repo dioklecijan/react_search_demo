@@ -1,0 +1,19 @@
+input::placeholder {
+  font-weight: 200;
+  color: #ccc;
+}
+
+.collapsed {
+  transition-duration: 0.5s;
+  transition-property: width;
+  width: 0;
+  border: none;
+  outline: none;
+}
+.expanded {
+  transition-duration: 0.5s;
+  transition-property: width;
+  width: 100%;
+  border: none;
+  outline: none;
+}
