@@ -20,7 +20,7 @@ const ListItem = ({ item }) => {
         <a
           href={item.website}
           target="_blank"
-          className="f6 link blue hover-dark-gray truncate db"
+          className="f6 link blue hover-dark-gray truncate db pointer"
         >
           {item.url}
         </a>
