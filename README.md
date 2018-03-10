@@ -3,7 +3,7 @@
 Playing with codesandbox.io (https://codesandbox.io/s/qvqxyq8m7w)
 
 
-This is a Reactjs demo of responsive titlebar with animated searchbox using tachyons.css.
+React demo: Responsive titlebar with animated searchbox using tachyons.css.
 
 
 ### Screenshot
