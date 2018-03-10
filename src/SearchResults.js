@@ -18,7 +18,7 @@ const ListItem = ({ item }) => {
         </span>
 
         <a
-          href={item.website}
+          href={item.url}
           target="_blank"
           className="f6 link blue hover-dark-gray truncate db pointer"
         >
